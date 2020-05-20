@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    background-image: url(../img/BG.png);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 50px;
+    color: white;
+    margin-top: 50px;
+    letter-spacing: 5px;
+    text-shadow: rgb(0, 0, 0) 1px 5px 15px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.container-fluid {
+    background-color: rgba(68, 68, 68, 0.623);
+    margin-top: 300px;
+    border: solid rgba(255, 103, 103, 0.884) 2px;
+    border-radius: 30px;
+    color: white;
+}
+
+.form-control {
+    text-align: center;
+}
+
+.btn.btn-primary {
+    margin-left: 43%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+}
